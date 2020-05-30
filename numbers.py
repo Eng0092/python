@@ -10,3 +10,7 @@ print(type(num3))
 print(3**2)
 print(3**10)
 print(5+int('2'))
+print('\n')
+a,b=2,4
+print(a)
+print(b)
